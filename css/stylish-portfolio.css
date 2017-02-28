@@ -248,3 +248,8 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.left-list {
+  text-align: left;
+  margin: 0 auto;
+}
