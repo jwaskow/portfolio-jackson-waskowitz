@@ -253,3 +253,7 @@ footer {
   text-align: left;
   margin: 0 auto;
 }
+
+.skills-padding {
+  padding-left: 20px;
+}
