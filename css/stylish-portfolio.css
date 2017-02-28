@@ -261,6 +261,11 @@ footer {
   }
 }
 
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
 .fadeInDown {
   animation-name: fadeInDown;
 }
