@@ -248,3 +248,8 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.animated-slow {
+  animation-duration: 2s;
+  animation-fill-mode: both;
+}
