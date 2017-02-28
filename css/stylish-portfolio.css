@@ -248,24 +248,3 @@ footer {
   bottom: 5px;
   right: 5px;
 }
-
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translate3d(0, -100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: none;
-  }
-}
-
-.animated {
-  animation-duration: 1s;
-  animation-fill-mode: both;
-}
-
-.fadeInDown {
-  animation-name: fadeInDown;
-}
