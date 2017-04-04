@@ -170,6 +170,10 @@ hr.small {
 
 /* Services */
 
+#services {
+  background: rgb(211, 165, 119);
+}
+
 .services {
     padding: 50px 0;
 }
