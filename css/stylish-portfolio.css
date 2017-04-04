@@ -171,7 +171,7 @@ hr.small {
 /* Services */
 
 #services {
-  background: rgb(211, 165, 119);
+  background: #80a4c6;
 }
 
 .services {
@@ -218,6 +218,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+    background: #80a4c6;
 }
 
 .call-to-action .btn {
